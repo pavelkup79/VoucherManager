@@ -15,7 +15,7 @@ logging.basicConfig(format='%(levelname)s:%(name)s:%(asctime)s--%(message)s' ,fi
 
 #define Test  Environment parameters
 env={"vm_url":"http://localhost","host" :"somehost","username":"someuser","password":"SOmepasswod","port":22,"keyfile_path":"private_key_file",
-     "vm_gui_user":"abp1","vm_gui_password" : "Unix11" }
+     "vm_gui_user":"guiUser","vm_gui_password" : "GUIpass" }
 db ={'dbUserABP':'DBuser', 'dbPassABP':'dbpass','dbInstanceABP':'Vdbinstance','dbHost':'dbhost','dbPort':1521}
 
 
