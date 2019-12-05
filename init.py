@@ -3,7 +3,7 @@ from selenium import webdriver
 import killproc
 import logging
 #define Driver parameters  and URL
-vm_url ='http://illinqw9333:11601/vm?APP_ID=VM'
+vm_url ='http://localhost:11601/vm?APP_ID=VM'
 driverpath ='C:\Users\pavelkup\PycharmProjects\VoucherManagment\chromedriver.exe'
 
 #logging definition
